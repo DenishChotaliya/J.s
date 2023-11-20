@@ -6,18 +6,16 @@ accountCity = "Surat"
 
 //accountId = 123 // not allowed it is a const varible 
 
-accountPassword = "123"
-
+accountPassword = "123"                      
 
 accountGmail = "123@gmail.com"
 
 accountCity = "Sapur"
 
 /* 
-Prefer not to use var
-becaus of issue in block scope and finctional scope
+Prefer not to use var 
+becaus of issue in block scope and finctional scope                                                 
 */
-
 
 console.log(accountId);
 console.table([accountPassword,accountGmail,accountCity,accountId])
