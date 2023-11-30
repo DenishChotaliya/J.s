@@ -60,9 +60,9 @@ let str3 = str1 + str2
 // console.log(1 + 2 + "2"); // 32
 
 
-// console.log(true); // true
-// console.log(+true); // 1
-// console.log(+""); // 0
+console.log(true); // true
+console.log(+true); // 1
+console.log(+""); // 0
 
 let a=2
 // console.log(++a);//3
